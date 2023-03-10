@@ -1,4 +1,0 @@
-var searchData=
-[
-  ['solve_5fquadro_5fi_5fdunno_5fwhat_5fto_5fwrite_5fhere_5fundefinite_5fvalue_5fof_5fnumber_5fof_5froots_5froots_5f_5f_5froots_5f_5f_5fyes_5f_5f_5fscotland_5fscotland_0',['solve_quadro_i_dunno_what_to_write_here_undefinite_value_of_number_of_ROOTS_ROOTS___ROOTS___YES___SCOTLAND_SCOTLAND',['../quadro_8h.html#a9f3bf11bec7714ca52a60c1ac8d0792b',1,'quadro.h']]]
-];
